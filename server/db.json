@@ -1,28 +1,57 @@
 {
-  "products":[
+  "products": [
     {
-      "id":1,
-      "name":"VF9",
-      "image":"https://i1-vnexpress.vnecdn.net/2023/03/27/VF9thumjpg-1679907708.jpg?w=750&h=450&q=100&dpr=1&fit=crop&s=Swpqo7PubMKfM8H_JnC3Pw",
-      "price":100000,
-      "stock":10,
-      "description":"Ô tô điện, với hệ thống sạc toàn Việt Nam"
+      "id": 1,
+      "name": "VF9",
+      "image": "https://i1-vnexpress.vnecdn.net/2023/03/27/VF9thumjpg-1679907708.jpg?w=750&h=450&q=100&dpr=1&fit=crop&s=Swpqo7PubMKfM8H_JnC3Pw",
+      "price": 100000,
+      "stock": -9,
+      "description": "Ô tô điện, với hệ thống sạc toàn Việt Nam"
     },
     {
-      "id":2,
-      "name":"VF8",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/5/59/VinFast_VF8%2C_front_NYIAS_2022.jpg",
-      "price":90000,
-      "stock":5,
-      "description":"Ô tô điện, với hệ thống sạc toàn Việt Nam"
+      "id": 2,
+      "name": "VF8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/VinFast_VF8%2C_front_NYIAS_2022.jpg",
+      "price": 90000,
+      "stock": -8,
+      "description": "Ô tô điện, với hệ thống sạc toàn Việt Nam"
     },
     {
-      "id":3,
-      "name":"VF LUX A 2.0",
-      "image":"https://www.vinfasthanoi3s.com/Uploads/0D8701C58591005C93E5D64704F87C92/files/vv6.png",
-      "price":80000,
-      "stock":3,
-      "description":"Ô tô điện, với hệ thống trạm sạc lớn nhất thế giới"
+      "id": 3,
+      "name": "VF LUX A 2.0",
+      "image": "https://www.vinfasthanoi3s.com/Uploads/0D8701C58591005C93E5D64704F87C92/files/vv6.png",
+      "price": 80000,
+      "stock": -1,
+      "description": "Ô tô điện, với hệ thống trạm sạc lớn nhất thế giới"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "VF9",
+      "image": "https://i1-vnexpress.vnecdn.net/2023/03/27/VF9thumjpg-1679907708.jpg?w=750&h=450&q=100&dpr=1&fit=crop&s=Swpqo7PubMKfM8H_JnC3Pw",
+      "price": 100000,
+      "stock": null,
+      "description": "Ô tô điện, với hệ thống sạc toàn Việt Nam",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "name": "VF8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/VinFast_VF8%2C_front_NYIAS_2022.jpg",
+      "price": 90000,
+      "stock": null,
+      "description": "Ô tô điện, với hệ thống sạc toàn Việt Nam",
+      "quantity": 3
+    },
+    {
+      "id": 3,
+      "name": "VF LUX A 2.0",
+      "image": "https://www.vinfasthanoi3s.com/Uploads/0D8701C58591005C93E5D64704F87C92/files/vv6.png",
+      "price": 80000,
+      "stock": null,
+      "description": "Ô tô điện, với hệ thống trạm sạc lớn nhất thế giới",
+      "quantity": 1
     }
   ]
 }
